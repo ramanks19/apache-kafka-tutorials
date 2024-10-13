@@ -56,7 +56,7 @@ curl --location 'localhost:8080/api/v1/messages' \
 }'
 ```
 
-### Installation of Kafka in Windows machine:
+### Running Kafka in Windows machine:
 1. Download the Kafka archive from the [official website](https://www.apache.org/dyn/closer.cgi?path=/kafka/3.8.0/kafka_2.13-3.8.0.tgz) and extract it using a tool like PeaZip, 7-Zip, WinRAR etc.
 2. Open the cmd and go to the folder where you have extract the file:
   - Run the command to start the Zookeeper:
